@@ -19,7 +19,7 @@ keep_alive()
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '7856912713:AAHs1OQ4N5bQ-qCEdBhd_wl-mfOBEGCW66U'
+API_TOKEN = '8128882254:AAEZ_6OicThy8hlo-k4JShBlsatOyqzRhBY'
 SUPER_ADMIN_ID = 7877979174
 
 DATABASE_URL = "postgresql://deezer:z6aDVwtPrCs36kTvhJnP6ctYhs2g2XPX@dpg-d11ia4e3jp1c73f1dr8g-a/deezer"
