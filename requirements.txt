@@ -1,5 +1,2 @@
-pyTelegramBotAPI
-asynco
-logging
-json
-Aiogram
+aiogram
+asyncpg
