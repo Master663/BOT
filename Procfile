@@ -1,1 +1,1 @@
-web: gunicorn Master:app
+worker : python Master.py
