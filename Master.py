@@ -1,4 +1,4 @@
-import asyncio
+70import asyncio
 import logging
 import random
 import json 
@@ -22,7 +22,7 @@ logging.basicConfig(level=logging.INFO)
 API_TOKEN = '7856912713:AAHs1OQ4N5bQ-qCEdBhd_wl-mfOBEGCW66U'
 SUPER_ADMIN_ID = 7877979174
 
-DATABASE_URL = "postgresql://htsd_user:csKusK0S8l0l5yXnn6TJZtPaNN9qUGIQ@dpg-d0m6hap5pdvs738v8fq0-a/htsd"
+DATABASE_URL = "postgresql://deezer:z6aDVwtPrCs36kTvhJnP6ctYhs2g2XPX@dpg-d11ia4e3jp1c73f1dr8g-a/deezer"
 
 
 bot = Bot(token=API_TOKEN, default=DefaultBotProperties(parse_mode="HTML"))
